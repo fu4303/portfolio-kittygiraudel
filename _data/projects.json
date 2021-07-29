@@ -60,20 +60,6 @@
     "category": "Accessibility"
   },
   {
-    "name": "A11y-toggle",
-    "description": "A script to make accessible content toggles to assistive technology users.",
-    "link": "https://github.com/edenspiekermann/a11y-toggle",
-    "category": "Accessibility"
-  },
-  {
-    "name": "A11y-dialog",
-    "description": "A script to make modal dialogs accessible to assistive technology users.",
-    "link": "https://a11y-dialog.netlify.app/",
-    "category": "Accessibility",
-    "showcase": true,
-    "stars": 1600
-  },
-  {
     "name": "Spritesh",
     "description": "A script to build a SVG sprite from a folder of SVG files.",
     "link": "https://github.com/edenspiekermann/sprite.sh",
