@@ -1,7 +1,7 @@
 module.exports = {
-  url: 'https://kittygiraudel.com',
+  url: 'https://portfolio-kittygiraudel.vercel.app',
   description:
-    'I’m Kitty Giraudel, a non-binary web developer based in Berlin, focused on accessibility and inclusivity.',
+    'I’m Kitty Testing, a non-binary web developer based in Virginia, focused on accessibility and inclusivity.',
   author: 'Kitty Giraudel',
   environment: process.env.NODE_ENV,
   time: new Date(),
